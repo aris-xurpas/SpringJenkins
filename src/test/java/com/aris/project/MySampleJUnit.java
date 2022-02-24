@@ -8,7 +8,7 @@ class MySampleJUnit {
 
 	@Test
 	void test() {
-		fail("This is a sample test");
+		assertTrue(false);
 	}
 
 }
